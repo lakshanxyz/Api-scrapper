@@ -51,7 +51,7 @@
     "nodemon": "^2.0.7",
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7",
-    "tiktok-scraper": "^1.4.12",
+    "tiktok-scraper": "^1.4.36",
     "urlencode": "^1.1.0",
     "api-rey": "1.1.0",
     "zrapi": "0.0.6"
